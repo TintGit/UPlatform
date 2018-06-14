@@ -1,0 +1,6 @@
+framework module Pods_UPlatform {
+  umbrella header "Pods-UPlatform-umbrella.h"
+
+  export *
+  module * { export * }
+}
